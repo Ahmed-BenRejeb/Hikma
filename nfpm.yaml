@@ -1,0 +1,16 @@
+name: "hikma"
+arch: "amd64"
+platform: "linux"
+version: "1.0.0"
+section: "utils"
+priority: "optional"
+maintainer: "Ahmed Ben Rejeb <ahmed.benrejeb@insat.ucar.tn>"
+description: "A terminal companion for Arabic Poetry, Quotes, and Hadith"
+vendor: "Ahmed Ben Rejeb"
+homepage: "https://github.com/Ahmed-BenRejeb/Hikma.git"
+license: "MIT"
+
+
+contents:
+  - src: ./hikma        # Your local binary
+    dst: /usr/bin/hikma # Where it goes on the user's system

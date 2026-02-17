@@ -15,6 +15,13 @@ A beautiful terminal companion for **Arabic Poetry**, **Wisdom Quotes**, and **P
 
 ![ScreencastFrom2026-02-1710-02-48-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/d94aaa75-baca-4090-9715-a272a2f27a30)
 
+## 💡 Why Hikma?
+
+As a developer and novelist, I wanted something that brings Arabic wisdom into my daily workflow.
+
+Instead of opening social media, I wanted inspiration directly in my terminal — fast, beautiful, and meaningful.
+
+Hikma was born from that idea.
 
 ## ✨ Features
 
@@ -24,6 +31,7 @@ A beautiful terminal companion for **Arabic Poetry**, **Wisdom Quotes**, and **P
 - 🎨 **Beautiful Display** — Colorful, formatted output that adapts to terminal width
 - ⚡ **Fast & Lightweight** — Self-contained binary with embedded database
 - 🐧 **Linux Native** — Follows XDG conventions (`~/.local/share/hikma/`)
+
 
 ## 📦 Installation
 

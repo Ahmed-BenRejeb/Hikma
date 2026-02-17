@@ -130,6 +130,5 @@ This project is open source and available under the [MIT License](LICENSE).
 ⭐ If Hikma inspires you, consider starring the repo!
 
 <p align="center">
-
   <i>حكمة</i> — Arabic for "Wisdom"
 </p>

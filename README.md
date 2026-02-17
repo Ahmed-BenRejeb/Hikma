@@ -8,22 +8,13 @@
 ✨ The Arabic Inspiration CLI for Developers
 
 
-https://github.com/user-attachments/assets/aba116a2-ea25-4843-b975-c9654612fe6c
-
-
-
-https://github.com/user-attachments/assets/aba116a2-ea25-4843-b975-c9654612fe6c
-
-
-
-https://github.com/user-attachments/assets/98e70e45-18a4-475f-9d25-4876dbd3821a
-
-
-
-https://github.com/user-attachments/assets/98e70e45-18a4-475f-9d25-4876dbd3821a
-
-
 A beautiful terminal companion for **Arabic Poetry**, **Wisdom Quotes**, and **Prophetic Hadith**. Get inspired every time you open your terminal!
+
+
+## 🎬 Demo
+
+![ScreencastFrom2026-02-1710-02-48-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/d94aaa75-baca-4090-9715-a272a2f27a30)
+
 
 ## ✨ Features
 

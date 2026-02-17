@@ -5,6 +5,23 @@
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License">
 </p>
+✨ The Arabic Inspiration CLI for Developers
+
+
+https://github.com/user-attachments/assets/aba116a2-ea25-4843-b975-c9654612fe6c
+
+
+
+https://github.com/user-attachments/assets/aba116a2-ea25-4843-b975-c9654612fe6c
+
+
+
+https://github.com/user-attachments/assets/98e70e45-18a4-475f-9d25-4876dbd3821a
+
+
+
+https://github.com/user-attachments/assets/98e70e45-18a4-475f-9d25-4876dbd3821a
+
 
 A beautiful terminal companion for **Arabic Poetry**, **Wisdom Quotes**, and **Prophetic Hadith**. Get inspired every time you open your terminal!
 
@@ -119,7 +136,9 @@ This project is open source and available under the [MIT License](LICENSE).
 - **Author**: Ahmed Ben Rejeb
 
 ---
+⭐ If Hikma inspires you, consider starring the repo!
 
 <p align="center">
+
   <i>حكمة</i> — Arabic for "Wisdom"
 </p>
